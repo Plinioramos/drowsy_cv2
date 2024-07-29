@@ -1,5 +1,6 @@
 streamlit
 opencv-python-headless
+cmake
 numpy
 dlib
 streamlit-webrtc
