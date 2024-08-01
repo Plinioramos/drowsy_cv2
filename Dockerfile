@@ -4,6 +4,7 @@ FROM python:3.11-slim
 RUN apt-get update && apt-get install -y \
     cmake \
     build-essential \
+    libboost-all-dev \
     && rm -rf /var/lib/apt/lists/*
 
 # Instale as dependências do Python
