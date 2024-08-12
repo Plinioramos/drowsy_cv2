@@ -3,3 +3,6 @@ opencv-python-headless>=4.5.5.64
 numpy>=1.22.0
 dlib-bin>=19.22
 streamlit-webrtc==0.33.0
+altair==4.2.2
+protobuf<4.0.0
+click==8.0.0
